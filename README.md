@@ -1,4 +1,6 @@
-This repository contains the development standards and naming conventions adopted by TDW for various projects. It includes guidelines for naming VBScript files, VAF and non-VAF applications, and more. These standards help ensure clarity, consistency, and maintainability across all development efforts.
+![TDWLogo](https://i0.wp.com/thedocumentwarehouse.com/wp-content/uploads/2023/12/The_Document_Warehouse_Logo_RGB-1.png?fit=3508%2C1240&ssl=1 "The Document Warehouse logo")
+
+This repository contains the development standards and naming conventions adopted by The Document Warehouse for various projects. It includes guidelines for naming VBScript files, VAF and non-VAF applications, and more. These standards help ensure clarity, consistency, and maintainability across all development efforts.
 
 ## Contents:
 
